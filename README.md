@@ -1,7 +1,4 @@
 # Valeton-GP5-Wireless-BLE-Controller
-Fully wireless BLE Bridge for Valeton GP-5
-
-# Valeton GP-5 BLE Bridge
 
 **Fully wireless control for your Valeton GP-5!**  
 This BLE Bridge allows you to sync presets, switch effects, adjust delay and tempo, and connect multiple devices—all without USB restrictions.
@@ -10,12 +7,15 @@ Currently, the device still requires an external power source, but a battery mod
 
 > GP-5 cannot connect to other devices while linked to the mobile app, unless using a USB cable to the pedal.  
 > This project was developed to provide more freedom and expandability.
+<img width="1280" height="720" alt="1" src="https://github.com/user-attachments/assets/d4e3f034-8c03-451d-99c3-0d494c055700" />
+<img width="1280" height="720" alt="2" src="https://github.com/user-attachments/assets/f6d282c2-6e0d-4454-8b40-4616d365e29c" />
+<img width="1280" height="720" alt="3" src="https://github.com/user-attachments/assets/cac38826-8eeb-4db8-b48a-b562567403ca" />
 
 ---
 
 ## ✨ Features
 
-- Display current preset information  
+- Display preset information  
 - Sync status across all connected devices  
 - Preset switching  
 - Effect switching  
@@ -24,7 +24,7 @@ Currently, the device still requires an external power source, but a battery mod
 - Tap Tempo function  
 - ms mode / beat mode switching  
 - Beat note selection  
-- Quick switch interface for external analog pedals  
+- Quick switch interface for external pedals  
 - Additional features continuously being added  
 
 ---
@@ -37,18 +37,14 @@ Currently, the device still requires an external power source, but a battery mod
 
 ## ⚙️ Setup
 
-1. Flash the firmware to your ESP32-S3 board  
-2. Connect the GP-5 via BLE  
-3. Start controlling your GP-5 wirelessly  
-
-> Detailed step-by-step instructions and wiring diagrams will be added soon.
+> Will be added soon
 
 ---
 
 ## 🎥 Demo
 
 Check out the demo video here:  
-https://xxx
+https://youtu.be/95tlR9da6GU
 
 ---
 
@@ -70,4 +66,4 @@ Contributions are welcome!
 ## ☕ Support
 
 If you enjoy this project or want to support continued development of open-source music tools, consider supporting me on Ko-fi 🎶  
-👉 Ko-fi: https://xxx
+👉 Ko-fi: https://youtu.be/95tlR9da6GU
