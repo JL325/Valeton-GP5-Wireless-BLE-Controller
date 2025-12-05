@@ -66,4 +66,4 @@ Contributions are welcome!
 ## ☕ Support
 
 If you enjoy this project or want to support continued development of open-source music tools, consider supporting me on Ko-fi 🎶  
-👉 Ko-fi: https://youtu.be/95tlR9da6GU
+👉 Ko-fi: https://ko-fi.com/johnlin325
